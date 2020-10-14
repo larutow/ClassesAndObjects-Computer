@@ -1,0 +1,7 @@
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\bin\Debug\ClassesAndObjects_Computer.exe.config
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\bin\Debug\ClassesAndObjects_Computer.exe
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\bin\Debug\ClassesAndObjects_Computer.pdb
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\obj\Debug\ClassesAndObjects_Computer.csprojAssemblyReference.cache
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\obj\Debug\ClassesAndObjects_Computer.csproj.CoreCompileInputs.cache
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\obj\Debug\ClassesAndObjects_Computer.exe
+C:\Users\lrutowski\source\repos\ClassesAndObjects_Computer\ClassesAndObjects_Computer\obj\Debug\ClassesAndObjects_Computer.pdb
